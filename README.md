@@ -9,7 +9,7 @@ must belong to a valid category of the Romanian driving license system.
 I also implemented the persistency  of the data, using a database system, specifically MySQL. Each class in the system has a database table associated to it and a Service file that contains the CRUP operations. When starting
 the application, the data is fetched from the database. Also when creating and deleting an object, a corresponding database record is created in the corresponding table.
 
-Flux example:
+Flux example:<br>
 -The user adds a new Mechanic;<br>
 -The user adds a new Vehicle and selects its type (Car, Van, or Motorcycle);<br>
 -A new Customer is registered;<br>
