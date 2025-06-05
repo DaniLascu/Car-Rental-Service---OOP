@@ -18,3 +18,5 @@ Flux example:<br>
 -The mechanic performs a Technical Inspection on Vehicle Y;<br>
 -Vehicle Y is Insured;<br>
 -Customer X rents Vehicle Y — the rental period is specified, the vehicle becomes unavailable both at the application and database level;
+
+![ER_Diagram_OOP2](https://github.com/user-attachments/assets/e48963c3-44eb-409f-9996-147e36ed7b3c)
